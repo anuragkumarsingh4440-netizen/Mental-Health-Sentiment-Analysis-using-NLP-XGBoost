@@ -201,6 +201,9 @@ The application can be launched locally using:
 
 python app.py
 <img width="1919" height="1078" alt="image" src="https://github.com/user-attachments/assets/59543031-68a3-42b0-9772-4ec276095433" />
+
+---
+
 <img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/52e163a5-f86a-4124-9050-63bae6f3dc92" />
 It can also be deployed on platforms such as Hugging Face Spaces or cloud services with minimal changes.
 
